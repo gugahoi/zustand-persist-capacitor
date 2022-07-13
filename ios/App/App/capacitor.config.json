@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "zustand-persist-capacitor",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
